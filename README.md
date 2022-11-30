@@ -12,7 +12,7 @@ The website I used to resize it is: https://redketchup.io/gif-resizer
 The credit/inspiration for this game is: https://en.wikipedia.org/wiki/Breakout_(video_game
 I also recieved aid from Professor Wolfe
 
-#Video of the game being played:
+# Video of the game being played:
 
 https://user-images.githubusercontent.com/113323340/204853386-ababa075-ced8-44c3-bf1e-c173f7a6e214.mov
 
